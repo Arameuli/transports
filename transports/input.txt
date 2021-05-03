@@ -1,0 +1,8 @@
+public
+8 50 20 15 25
+private
+4 20 10 9 10 14
+private
+5 22 9 13 15 17
+public
+9 55 24 13 23

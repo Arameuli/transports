@@ -1,0 +1,8 @@
+﻿  transports.cpp
+C:\Users\nikas\source\repos\transports\transports.cpp(30,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\transports\transports.cpp(31,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\transports\transports.cpp(37,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\transports\transports.cpp(42,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\transports\transports.cpp(43,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\transports\transports.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+  transports.vcxproj -> C:\Users\nikas\source\repos\transports\Debug\transports.exe
